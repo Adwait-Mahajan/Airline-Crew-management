@@ -11,6 +11,6 @@ Incorporated real-time operational constraints such as flight timings, crew rest
 
 Designed the solution to be scalable and adaptable for dynamic inputs, enabling real-time decision support.
 
-Tools Used: Python, PuLP, NumPy, Pandas, Matplotlib.
+Tools Used: Python, PuLP, NumPy, Pandas
 
 This project demonstrates the power of operations research techniques in improving airline efficiency, scheduling robustness, and resource utilization.
